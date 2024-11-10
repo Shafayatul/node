@@ -6,7 +6,7 @@
     </component>
 </template> 
 //df gsdfg sdf
-
+// New line from feature 2
 <script>
 // import car from './components/dashboard/crud/Car'
   export default {
